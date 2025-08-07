@@ -41,3 +41,7 @@ Python Libraries:
 For inquiries regarding the code, please contact:
 - **Wenxin Zhang**
 - vexasxinnian0@163.com
+
+##  License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
